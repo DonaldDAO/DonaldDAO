@@ -1,4 +1,4 @@
-### Hi there 👋
+Future home of any projects created through the Donald DAO. 
 
 <!--
 **DonaldDAO/DonaldDAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
